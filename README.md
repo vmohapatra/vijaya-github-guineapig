@@ -1,2 +1,2 @@
 # vijaya-github-guineapig
-Test repo
+Test repo to learn github
